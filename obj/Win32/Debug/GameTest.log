@@ -1,0 +1,54 @@
+﻿  Scene.cpp
+C:\Users\cys10\Desktop\VS project\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\Users\cys10\Desktop\VS project\of_v0.10.1_vs2017_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(331,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(364,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(409,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(445,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(492,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(511,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(542,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(562,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(612,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(614,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(617,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(619,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(621,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(623,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(625,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(627,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(847,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(975,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(980,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(984,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(988,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(992,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(996,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1000,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1004,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1014,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1019,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1023,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1027,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1031,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1035,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1039,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1043,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1055,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1060,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1064,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1068,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1072,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1076,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1080,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1084,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1094,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1099,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1103,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1107,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1111,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1115,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1119,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(1123,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cys10\Desktop\VS project\Projects\GameTest\src\Scene.cpp(718): warning C4715: 'Scene::winTest': not all control paths return a value
+  GameTest.vcxproj -> C:\Users\cys10\Desktop\VS project\Projects\GameTest\bin\GameTest_debug.exe

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Scene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Chara.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Terrain\Ceiling.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Terrain\FloorLine.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Terrain\Platform.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Terrain\Wall.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Terrain\GoalArea.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Terrain\LaunchPad.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Terrain\Lava.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Terrain\CheckPoint.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Scene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Chara.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Terrain\Ceiling.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Terrain\FloorLine.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Terrain\Platform.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Terrain\Wall.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Terrain\GoalArea.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Terrain\LaunchPad.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Terrain\Lava.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Terrain\CheckPoint.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
