@@ -4,7 +4,7 @@
  
 ## How to play
 
-  in the bin folder, execute GameTest_debug.exe
+  In the bin folder, execute GameTest_debug.exe
   
 ### Controls
   
