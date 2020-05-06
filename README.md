@@ -1,6 +1,6 @@
 # HeightenedCause
  
- This is my first relatively big programming project. A 2D game based on C++ and Openframeworks. All the colision and gravity system is written by me.
+ This is my first relatively big programming project. A 2D game based on C++ and Openframeworks.
  
 ## How to play
 
